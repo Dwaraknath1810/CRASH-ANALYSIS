@@ -3,13 +3,13 @@ This project describes about air plane crash analysis using tableau we have docu
 
 # Dashboard 1 Public Link
 
-https://public.tableau.com/app/profile/dwaraknath.b/viz/Publicdashboard1/Dashboard1?publish=yes
+https://public.tableau.com/app/profile/dwaraknath.b/viz/Book1_16922136727620/Dashboard1?publish=yes 
 
 # Dashboard 2 Public Link
 
-https://public.tableau.com/app/profile/dwaraknath.b/viz/Publicdashboard2/Dashboard2?publish=yes
+https://public.tableau.com/app/profile/dwaraknath.b/viz/Book2_16922145824420/Dashboard2?publish=yes 
 
 # Story Public Link
 
-https://public.tableau.com/app/profile/dwaraknath.b/viz/Publicstory/Story?publish=yes
+https://public.tableau.com/app/profile/dwaraknath.b/viz/Book3_16922146220090/Story1?publish=yes 
 
